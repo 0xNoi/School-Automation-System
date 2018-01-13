@@ -127,6 +127,8 @@ def removeLecture(login): # That function provide, students can delete their lec
 
 
 def teacherMenu(login): # Here is the Teacher Menu function which is calling other funtions with their conditions
+    while True:
+
         print(title("TEACHER MENU"))
         print("1) Students")
         print("2) Add new student")
