@@ -6,5 +6,4 @@ Student Automation System which is basic program written in python. There are lo
 - can be add json or database for storing informations, even must be store hashes+salt passwords and username for security case
 - can be add some useful functions 
 
-Purpose of giving an idea for beginners ||
-Open for developing
+Purpose of giving an idea for beginners
